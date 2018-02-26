@@ -2,8 +2,8 @@ title: Edición XX
 description: > # this means to ignore newlines until "baseurl:"
   Trabajos finales de la XXa edición del Máster en Periodismo BCN_NY
 permalink: ':title/'
-baseurl: "/2018-trabajos-finales" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://trabajos-finales.la22.org" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
